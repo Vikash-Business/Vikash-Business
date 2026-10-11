@@ -55,41 +55,8 @@
 
 <!-- Add your real projects below. Remove this comment when ready. -->
 Meal Mentor AI
-> **Projects coming soon.** This section will showcase selected projects, demos, and open-source contributions.
-
-<!--
-### Project Name
-A short description of what the project actually does.
-
-[![Repository](https://img.shields.io/badge/View-Repository-8B5CF6?style=for-the-badge&logo=github)](YOUR_REPOSITORY_URL)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-A855F7?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
--->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikash-Business&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF91F3&icon_color=A855F7&text_color=C9D1D9" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash-Business&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF91F3&text_color=C9D1D9" alt="Most-used languages in public repositories" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-usenae&theme=midnight-purple&hide_border=true&background=0D1117&ring=BF91F3&fire=A855F7&currStreakLabel=BF91F3" alt="GitHub contribution streak" />
-
-</div>
-
-## 🐍 Contribution Matrix
-
-<div align="center">
-
-<!-- Enable the contribution-snake GitHub Action described below first. -->
-
-<img src="https://raw.githubusercontent.com/Vikash-Business/Vikash-Business/output/github-snake-dark.svg" alt="Animated contribution graph snake" />
-
-</div>
-
----
+and many more upcoming.
+# > **Projects coming soon.** 
 
 <div align="center">
 
@@ -98,6 +65,5 @@ A short description of what the project actually does.
 *The next idea could become the next great product.*
 *Ready to build with me*
  *Contact :- vikash.info.business@gmail.com*
-![Profile views](https://komarev.com/ghpvc/?username=your-usenae&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
