@@ -54,10 +54,8 @@
 ## 🚀 Featured Projects
 
 <!-- Add your real projects below. Remove this comment when ready. -->
-Meal Mentor AI
-and many more upcoming.
-# > **Projects coming soon.** 
-
+*Meal Mentor AI*
+and many more *upcoming*.
 <div align="center">
 
 ### `BUILD · LEARN · ITERATE`
