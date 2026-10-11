@@ -53,20 +53,24 @@
 </div>
 
 
+<!-- HEADER -->
 <div align="center">
-  <img src="./terminal.svg" width="100%" alt="header" />
+  <img src="./header.svg" width="100%" alt="Header" />
 </div>
 
+<!-- ABOUT -->
 <div align="center">
-  <img src="./terminal.svg" width="100%" alt="about" />
+  <img src="./about.svg" width="100%" alt="About Me" />
 </div>
 
+<!-- SKILLS -->
 <div align="center">
-  <img src="./terminal.svg" width="100%" alt="skills" />
+  <img src="./skills.svg" width="100%" alt="Skills" />
 </div>
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="./terminal.svg" width="100%" alt="footer" />
+  <img src="./footer.svg" width="100%" alt="Footer" />
 </div>
 
 ## 🚀 Featured Projects
