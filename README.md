@@ -40,6 +40,7 @@
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,docker,git,supabase&theme=dark" alt="Python, JavaScript, TypeScript, React, Docker, Git and Supabase" />
+
 </a>
 
 <br/><br/>
@@ -49,6 +50,23 @@
 [![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=flat-square)](https://gemini.google.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=flat-square&logo=supabase)](https://supabase.com/)
 
+</div>
+
+
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="header" />
+</div>
+
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="about" />
+</div>
+
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="skills" />
+</div>
+
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="footer" />
 </div>
 
 ## 🚀 Featured Projects
