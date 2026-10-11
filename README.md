@@ -3,7 +3,7 @@
 
 <!-- Replace these placeholders before publishing -->
 
-# ✦ TATSHAM ✦
+# ✦ Vikash-Business ✦
 
 ### `AI FOUNDER` · `AUTOMATION` · `SOFTWARE`
 
@@ -97,7 +97,7 @@ A short description of what the project actually does.
 
 *The next idea could become the next great product.*
 *Ready to build with me*
-*Contact :- vikash.info.business@gmail.com *
+ *Contact :- vikash.info.business@gmail.com*
 ![Profile views](https://komarev.com/ghpvc/?username=your-usenae&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
