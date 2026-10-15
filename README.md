@@ -3,7 +3,7 @@
 
 <!-- Replace these placeholders before publishing -->
 
-# ✦ Vikash-Business ✦
+# ✦ Tatsham ✦
 
 ### `AI FOUNDER` · `AUTOMATION` · `SOFTWARE`
 
