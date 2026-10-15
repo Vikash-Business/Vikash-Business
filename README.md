@@ -3,7 +3,7 @@
 
 <!-- Replace these placeholders before publishing -->
 
-# ✦ Tatsham ✦
+# ✦ TATSHAM ✦
 
 ### `AI FOUNDER` · `AUTOMATION` · `SOFTWARE`
 
